@@ -1,7 +1,7 @@
 {
   "name": "document-types-module",
   "version": "0.0.1-preview",
-  "description": "One of core module",
+  "description": "One of core module to manage all system's documents and its configurations.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
